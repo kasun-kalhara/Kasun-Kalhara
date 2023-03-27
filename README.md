@@ -10,6 +10,8 @@
 
 - 🔭 I’m a 3rd year Undergraduate pursuing an Technology degree in Electronics from SLTC Research University.
 
+- 🌱 I’m currently learning Artificial Intelligence (AI) @ Machine Learning (ML)
+
 - 📫 How to reach me **kasunkalhara588@gmail.com**
 
 - 📄 I experienced in Problem Solving and Programming
