@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/kasunka40923617" target="blank"><img src="https://img.shields.io/twitter/follow/kasunka40923617?logo=twitter&style=for-the-badge" alt="kasunka40923617" /></a> </p>
 
-- 🔭 I’m a 3rd year **Undergraduate pursuing an Technology degree in Electronics from SLTC Research University.**
+- 🔭 I’m a 3rd year Undergraduate pursuing an Technology degree in Electronics from SLTC Research University.
 
 - 📫 How to reach me **kasunkalhara588@gmail.com**
 
-- 📄 I experienced in [Problem Solving and Programming](Problem Solving and Programming)
+- 📄 I experienced in Problem Solving and Programming
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
