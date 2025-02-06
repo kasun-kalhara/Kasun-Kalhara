@@ -1,4 +1,5 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
+[![MasterHead](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)]
+
 <h1 align="center">Hi 👋, I'm Kasun Kalhara</h1>
 <h3 align="center">A passionate DevOps Engineer from Sri Lanka</h3>
 <img align="right" alt="DevOps" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
